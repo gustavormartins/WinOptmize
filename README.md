@@ -44,3 +44,12 @@ Para Quem é Este Script?
     Usuários de Notebooks: Que desejam reduzir o consumo de bateria por processos em background.
 
     Qualquer pessoa que prefira um Windows limpo e ágil.
+
+
+
+
+
+
+
+
+Clique aqui para baixar [link](https://github.com/gustavormartins/WinOptmize/blob/main/winscript.bat)
